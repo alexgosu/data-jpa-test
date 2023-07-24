@@ -1,0 +1,7 @@
+app:
+  db:
+    jdbcUrl: jdbc:postgresql://localhost:5432/spring-jpa-test?ApplicationName=myApp
+    username: postgres
+    password: postgres
+    minimumIdle: 1
+
